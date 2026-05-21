@@ -1,0 +1,15 @@
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/obj/Debug/net6.0/L4_MAMP_1155326.csproj.AssemblyReference.cache
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/obj/Debug/net6.0/L4_MAMP_1155326.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/obj/Debug/net6.0/L4_MAMP_1155326.AssemblyInfoInputs.cache
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/obj/Debug/net6.0/L4_MAMP_1155326.AssemblyInfo.cs
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/obj/Debug/net6.0/L4_MAMP_1155326.csproj.CoreCompileInputs.cache
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/bin/Debug/net6.0/L4_MAMP_1155326
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/bin/Debug/net6.0/L4_MAMP_1155326.deps.json
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/bin/Debug/net6.0/L4_MAMP_1155326.runtimeconfig.json
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/bin/Debug/net6.0/L4_MAMP_1155326.dll
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/bin/Debug/net6.0/L4_MAMP_1155326.pdb
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/obj/Debug/net6.0/L4_MAMP_1155326.dll
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/obj/Debug/net6.0/refint/L4_MAMP_1155326.dll
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/obj/Debug/net6.0/L4_MAMP_1155326.pdb
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/obj/Debug/net6.0/L4_MAMP_1155326.genruntimeconfig.cache
+/Users/mariale/Documents/GitHub/L4_MAMP_1155326/L4_MAMP_1155326/L4_MAMP_1155326/obj/Debug/net6.0/ref/L4_MAMP_1155326.dll

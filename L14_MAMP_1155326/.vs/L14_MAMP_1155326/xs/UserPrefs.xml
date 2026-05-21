@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E8C7E54D-89F4-4994-8524-792E9E1CA302}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="L14_MAMP_1155326/Estudiante.cs">
+    <Files>
+      <File FileName="L14_MAMP_1155326/Program.cs" Line="46" Column="40" />
+      <File FileName="L14_MAMP_1155326/CuentaBancaria.cs" Line="40" Column="41" />
+      <File FileName="L14_MAMP_1155326/Producto.cs" Line="48" Column="85" />
+      <File FileName="L14_MAMP_1155326/Estudiante.cs" Line="56" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="L14_MAMP_1155326">
+            <Node name="L14_MAMP_1155326">
+              <Node name="Estudiante.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.L14__MAMP__1155326 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
