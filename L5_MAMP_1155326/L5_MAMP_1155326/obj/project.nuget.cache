@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nf+Vqn3IE2nlYhkphPuDcXgvKJULUQU5/6ZZYVV7TcP7t3f/wE0GIhhhhLrV9Lqtv0dfoFhz+U7pQDFwF+s7NA==",
+  "success": true,
+  "projectFilePath": "/Users/mariale/Documents/L5_MAMP_1155326/L5_MAMP_1155326/L5_MAMP_1155326.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariale/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/mariale/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/mariale/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
