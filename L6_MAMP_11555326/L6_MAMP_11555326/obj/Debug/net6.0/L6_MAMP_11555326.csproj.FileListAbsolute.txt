@@ -1,0 +1,15 @@
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/bin/Debug/net6.0/L6_MAMP_11555326
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/bin/Debug/net6.0/L6_MAMP_11555326.deps.json
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/bin/Debug/net6.0/L6_MAMP_11555326.runtimeconfig.json
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/bin/Debug/net6.0/L6_MAMP_11555326.dll
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/bin/Debug/net6.0/L6_MAMP_11555326.pdb
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/obj/Debug/net6.0/L6_MAMP_11555326.csproj.AssemblyReference.cache
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/obj/Debug/net6.0/L6_MAMP_11555326.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/obj/Debug/net6.0/L6_MAMP_11555326.AssemblyInfoInputs.cache
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/obj/Debug/net6.0/L6_MAMP_11555326.AssemblyInfo.cs
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/obj/Debug/net6.0/L6_MAMP_11555326.csproj.CoreCompileInputs.cache
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/obj/Debug/net6.0/L6_MAMP_11555326.dll
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/obj/Debug/net6.0/refint/L6_MAMP_11555326.dll
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/obj/Debug/net6.0/L6_MAMP_11555326.pdb
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/obj/Debug/net6.0/L6_MAMP_11555326.genruntimeconfig.cache
+/Users/mariale/Documents/L6_MAMP_11555326/L6_MAMP_11555326/obj/Debug/net6.0/ref/L6_MAMP_11555326.dll
